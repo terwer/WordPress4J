@@ -11,7 +11,7 @@ import org.springframework.boot.test.context.SpringBootTest;
  * @date: 2022-09-16 00:24
  **/
 @SpringBootTest
-class WordPress4JApplicationTests {
+class Wordpress4jApplicationTests {
 
 	@Test
 	void contextLoads() {
