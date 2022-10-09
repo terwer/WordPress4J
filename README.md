@@ -2,6 +2,24 @@
 
 WordPress on Java platform. 100% compatible with the latest WordPress version on Java and SpringBoot platform.
 
+## 实现
+
+### 前端
+
+Nuxt 2 版本
+
+https://github.com/terwer/jvue-front-2
+
+Nuxt 3 版本【预览版】
+
+https://github.com/terwer/jvue-front
+
+### 后端
+
+基于 SpringBoot 2.7.3
+
+https://github.com/terwer/wordpress4j
+
 ## 技术构想
 
 WordPress在Java平台的实现。前后端完全分离，后端只提供核心API和实现，UI和插件、主题等完全由前端完成。
